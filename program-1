@@ -1,0 +1,5 @@
+#This is a python file
+int a=10
+int b=5
+sum = a+b
+print(sum)
